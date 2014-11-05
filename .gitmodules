@@ -1,0 +1,6 @@
+[submodule "monit"]
+	path = monit
+	url = git://github.com/apsoto/monit.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git://github.com/elasticsearch/cookbook-elasticsearch.git
